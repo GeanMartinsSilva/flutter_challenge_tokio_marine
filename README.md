@@ -129,18 +129,18 @@ Certifique-se de ter os seguintes softwares instalados:
 
    Navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências necessárias:
 
-   "bash
+   ```bash
    flutter pub get
-   " fim do codigo aqui
+   ```
 
 3. **Executar a Aplicação**:
 
    Com um dispositivo conectado ou um emulador em execução, execute o seguinte comando para iniciar a aplicação:
 
-   "bash
+   ```bash
    flutter run
-   " fim do codigo aqui
-
+   ```
+   
    Este comando compilará o aplicativo e o instalará no dispositivo/emulador conectado.
 
 4. **Testar a Aplicação**:
